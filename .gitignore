@@ -1,2 +1,5 @@
 .vscode
-data.txt
+data_format.pyc
+data_variables.pyc
+dpp-output.csv
+rgvchallenge-output.csv
